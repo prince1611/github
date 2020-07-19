@@ -1,0 +1,8 @@
+Hey, I am using for test.
+
+Now,I am troubleshooting in 2nd time Git.
+
+I am using for skipping the staging area.
+
+I am testing to use Push GitHUB.
+
